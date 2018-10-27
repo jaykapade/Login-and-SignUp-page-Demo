@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">755187713369-ko88g7c0voqfkj5dr5274pf8hv7f8o6n.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://authapp-69242.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">755187713369</string>
+    <string name="google_api_key" translatable="false">AIzaSyDhyX3Frf6BXfXE6t9w-ahCAHUIAaDJ1WQ</string>
+    <string name="google_app_id" translatable="false">1:755187713369:android:75ce1b28672d74e5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDhyX3Frf6BXfXE6t9w-ahCAHUIAaDJ1WQ</string>
+    <string name="google_storage_bucket" translatable="false">authapp-69242.appspot.com</string>
+    <string name="project_id" translatable="false">authapp-69242</string>
+</resources>
